@@ -1,0 +1,3 @@
+Where's Wally?is a British series of children's puzzle books created by English illustrator Martin Handford. The challenge is to find a character hidden in the group named Wally, who is identified by his red-and-white-striped shirt, bobble hat, and glasses. [Wikipedia](https://en.wikipedia.org/wiki/Where%27s_Wally%3F)
+
+The objetive of this project is that OpenCV finds Wally on an large image based on a cutout of the portion where it is found.
